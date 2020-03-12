@@ -4,7 +4,12 @@
 //
 //  Created by MS on 16/5/11.
 //  Copyright © 2016年 LSS. All rights reserved.
-//
+//nihao
+
+
+
+
+
 
 #import "LSSAlertView.h"
 #define LAVSCREEN [UIScreen mainScreen].bounds

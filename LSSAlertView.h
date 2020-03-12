@@ -17,7 +17,7 @@ typedef void(^alertReturn)(NSInteger index);
 - (instancetype)initWithTitle:(NSString *)title message:(NSString *)message sureBtn:(NSString *)sureBtn cancleBtn:(NSString *)cancleBtn;
 - (void)showAlertView;
 
-
+//nihao
 
 
 
